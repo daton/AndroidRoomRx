@@ -9,3 +9,8 @@ http://re.ssec.wisc.edu/?products=G16-ABI-FD-BAND02.100,G16-ABI-FD-BAND13.65&cen
 
 https://github.com/googlesamples/android-architecture-components
 
+https://developer.android.com/training/notify-user/build-notification
+
+https://visibleearth.nasa.gov/view_cat.php?categoryID=1484
+
+https://visibleearth.nasa.gov/view_cat.php?categoryID=1484
